@@ -50,7 +50,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Jesper and I'm a Freelance Cloud Architect working with <mark>Microsoft Azure</mark> technologies. 
 
-  I am most skilled in: <mark>Governance</mark>, <mark>Management</mark>, <mark>Automation</mark>, <mark>Core Infrastructure</mark>
+  Some areas of expertise: <mark>Governance</mark>, <mark>Management</mark>, <mark>Automation</mark>, <mark>Core Infrastructure</mark>
 
 content:
   - title: Projects # Title for the section
