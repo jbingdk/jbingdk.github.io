@@ -57,7 +57,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Cloud Architect in large Danish dairy company
+        title: External Cloud Architect 
         quote: >
 
         description: | # this will include new lines to allow paragraphs
