@@ -52,16 +52,18 @@ about_content: | # this will include new lines to allow paragraphs
 
   Some areas of expertise: <mark>Governance</mark>, <mark>Management</mark>, <mark>Automation</mark>, <mark>Core Infrastructure</mark>
 
+  “If you don’t like change, you’re going to like irrelevance even less.” —Eric Shinseki
+
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: External Cloud Architect 
-        quote: >
+        title:  Cloud Architect 
+        quote: > 
 
         description: | # this will include new lines to allow paragraphs
-          As an external Cloud Architect, I support the Cloud & Datacenter and Security Architects in building a secure and well-architected Azure Platform. Also implemented Secure Hubs in the global Azure Virtual WAN infrastructure. 
+          As a Cloud Architect, I support the Cloud & Datacenter and Security Architects in building a secure and well-architected Azure Platform. Also implemented Secure Hubs in the global Azure Virtual WAN infrastructure. 
 
   - title: A Little More About Me
     layout: text
@@ -70,8 +72,6 @@ content:
       - Football
       - BBQ - nothing like a low'n'slow cook!
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
