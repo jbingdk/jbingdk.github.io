@@ -50,6 +50,8 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Jesper and I'm a Freelance Cloud Architect working with <mark>Microsoft Azure</mark> technologies. 
 
+  I have also been recognized as Microsoft Azure MVP for the past 6 years. 
+
   Some areas of expertise: <mark>Governance</mark>, <mark>Management</mark>, <mark>Automation</mark>, <mark>Core Infrastructure</mark>
 
   “If you don’t like change, you’re going to like irrelevance even less.” —Eric Shinseki
@@ -59,7 +61,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title:  Cloud Architect 
+        title:  Cloud Architect - ongoing
         quote: > 
 
         description: | # this will include new lines to allow paragraphs
@@ -68,7 +70,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      Some of my other interests and hobbies are:
       - Football
       - BBQ - nothing like a low'n'slow cook!
 
