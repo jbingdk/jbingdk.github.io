@@ -50,9 +50,9 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Jesper and I'm a Freelance Cloud Architect working with <mark>Microsoft Azure</mark> technologies. 
 
-  I have also been recognized as Microsoft Azure MVP for the past 6 years. 
+  I have also been recognized as Microsoft Azure MVP for the past 7 years. 
 
-  Some areas of expertise: <mark>Governance</mark>, <mark>Management</mark>, <mark>Automation</mark>, <mark>Core Infrastructure</mark>
+  Some areas of expertise: <mark>Governance</mark>, <mark>Management</mark>, <mark>Automation</mark>, <mark>Core Infrastructure</mark>, <mark>Network</mark>, <mark>Terraform</mark>, <mark>GitHub</mark>
 
   “If you don’t like change, you’re going to like irrelevance even less.” —Eric Shinseki
 
@@ -61,11 +61,71 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title:  Cloud Architect - ongoing
+        title:  Global dairy company
+        sub_title: Cloud Architect
+        caption: March 2022 - present
         quote: > 
 
         description: | # this will include new lines to allow paragraphs
-          As a Cloud Architect, I support the Cloud & Datacenter and Security Architects in building a secure and well-architected Azure Platform. Also implemented Secure Hubs in the global Azure Virtual WAN infrastructure. 
+          As a Cloud Architect, I am part of the Cloud Center of Excellence and help building a secure and well-architected Azure Platform with focus on automation and self-service. 
+          
+          As part of raising security I was participated in a project to implementing Secure Hubs in the global Azure Virtual WAN infrastructure. 
+
+          I've also transformed the existing management platform to Infrastructure-as-Code using Terraform and GitHub Actions.
+
+      - layout: left
+        title: Nordic media company
+        sub_title: Cloud Architect
+        caption: June 2023 - present
+        quote: > 
+
+        description: | # this will include new lines to allow paragraphs
+          I work with the cloud platform team on projects to improve the infrastructure.
+
+      - layout: left
+        title: European windows and doors manufacturer
+        sub_title: Cloud Architect
+        caption: August 2023 - present
+        quote: >
+
+        description: | 
+          As a Cloud Architect, I support the customer with advisory and implementation of the Azure Landing Zones with Microsoft Cloud Adoption Framework. 
+          
+          The project includes the implementation of a Landing Zones, Governance, Management, and Security. Everything is implemented as Infrastructure-as-Code using Terraform and Azure Pipelines.
+
+      - layout: left
+        title: Danish Steel and metals wholesaler
+        sub_title: Cloud Architect
+        caption: May 2023 - present
+        quote: >
+
+        description: | 
+          As a Cloud Architect, I support the customer with advisory and implementation of the Azure Landing Zones with Microsoft Cloud Adoption Framework. 
+          
+          The project includes the implementation of a Landing Zones, Governance, Management, and Security.
+
+      - layout: left
+        title: European building materials distributor
+        sub_title: Cloud Architect
+        caption: September 2022 - December 2022
+        quote: >
+
+        description: |
+          My role was to do a security review of the existing Azure environment and provide recommendations for improvements. This included landing zones, network, policies, resource configuration etc. 
+
+  - title: Experience
+    layout: list
+    content:
+      - layout: right
+        title: solvo it
+        sub_title: Cloud Architect
+        caption: March 2013 - February 2022
+        quote: > 
+
+        description: |
+          Cloud Architect working with Microsoft Azure technologies. Advisory, implementation, and operation of Azure environments. <mark>Azure Monitor</mark>
+
+
 
   - title: A Little More About Me
     layout: text
