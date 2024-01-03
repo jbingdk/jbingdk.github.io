@@ -111,12 +111,27 @@ content:
         quote: >
 
         description: |
-          My role was to do a security review of the existing Azure environment and provide recommendations for improvements. This included landing zones, network, policies, resource configuration etc. 
+          My role was to do a security review of the existing Azure environment and provide recommendations for improvements. This included landing zones, network, policies, resource configuration etc.
+
+      - layout: left
+        title: Danish Healtcare Region - Public
+        sub_title: Cloud Architect
+        caption: Februar 2022 - Juni 2023
+        quote: >
+
+        description: |
+          I participated in a project to enable researchers in one of the larges National Regions to use Azure for their research projects. 
+          My role was to help design and implement a secure machine learning environment based on Azure Machine Learning, including private networking and secure data access, import and export. 
+
+      - layout: left
+        title: Danish Pension Company
+        sub_title: Cloud Architect
+        caption: December 2020 - November 2021
 
   - title: Experience
     layout: list
     content:
-      - layout: right
+      - layout: left
         title: solvo it
         sub_title: Cloud Architect
         caption: March 2013 - February 2022
@@ -124,6 +139,24 @@ content:
 
         description: |
           Cloud Architect working with Microsoft Azure technologies. Advisory, implementation, and operation of Azure environments. <mark>Azure Monitor</mark>
+      
+      - layout: left
+        title: CSC Denmark
+        sub_title: System Consultant
+        caption: November 2008 - February 2013
+        quote: > 
+
+        description: |
+          System Consultant in Operations team, working with day to day operational tasks and keeping customers up to date and operational. <mark>VMware</mark>, <mark>Hyper-V</mark>, <mark>PowerShell</mark>
+      
+      - layout: left
+        title: Arriva Skandinavien A/S
+        sub_title: IT Supporter
+        caption: February 2005 - October 2008
+        quote: >
+
+        description: |
+          IT Supporter in the IT department, working with day to day support tasks allover Denmark and Sweden. <mark>Windows Server</mark>, <mark>Active Directory</mark>, <mark>Exchange</mark>, <mark>Citrix</mark>
 
 
 
@@ -138,6 +171,7 @@ content:
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
+references_title: Jesper Fütterer Bing - jesper@jbing.dk
 
 # Build settings
 remote_theme: sproogen/resume-theme
